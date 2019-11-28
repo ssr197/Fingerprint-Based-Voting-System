@@ -10,3 +10,10 @@ Fingerprint Based Voting Project is an application where the user is recognized 
 
 The system will allow the user to vote for only one candidate. The system will allow the user to vote for one time for a particular election. Admin can add any number of candidates when the new election will be announced. Admin can view the election result by using the election id. Even user can view the election result. We with the help of this system aims to achieve a target of 80+ percent by the end of the year 2029. We have designed this system in such a way that is affordable with minimum hardware requirement and the software will be provided by ECI free of cost.
 
+Refer the document in Document Directory for any further help.
+You can also write us at
+1) Saurabh Kumar   : saurabh50197@gmail.com
+2) Shalin          : shalinprasad24@gmail.com
+3) Rahul Kumar     : rk220897@gmail.com
+4) Anushrav Mishra : mishraanushrav@gmail.com
+
